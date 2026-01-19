@@ -1,0 +1,10 @@
+[18-Jan-2024 21:35:00 UTC] PHP Warning:  require(/home/sinathan/evoting.ipmpamulang.or.id/vendor/autoload.php): Failed to open stream: No such file or directory in /home/sinathan/evoting.ipmpamulang.or.id/artisan on line 18
+[18-Jan-2024 21:35:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sinathan/evoting.ipmpamulang.or.id/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sinathan/evoting.ipmpamulang.or.id/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /home/sinathan/evoting.ipmpamulang.or.id/artisan on line 18
+[18-Jan-2024 21:35:09 UTC] PHP Warning:  require(/home/sinathan/evoting.ipmpamulang.or.id/vendor/autoload.php): Failed to open stream: No such file or directory in /home/sinathan/evoting.ipmpamulang.or.id/artisan on line 18
+[18-Jan-2024 21:35:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sinathan/evoting.ipmpamulang.or.id/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sinathan/evoting.ipmpamulang.or.id/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /home/sinathan/evoting.ipmpamulang.or.id/artisan on line 18
